@@ -14,3 +14,26 @@ Raw data - values collected and recorded with little or no checking, calculation
 Recode - a value that is generated bu calculation and other logic applied to raw data
 Data cleaning - process that include validating data, identifying errors, translating between data types, etc.
 
+# Chapter 2
+
+Distribution - the values that appear in a sample and the frequency of each
+Histogram - a mapping from values to frequencies, or a graph that shows this mapping
+Frequency- the number of times a value appears in a sample
+Mode - the most frequent value in a sample, or one of the most frequent values
+Normal distribution - an idealization of a bell-shaped distribution, also known as Gaussian distribution
+Uniform distribution - a distribution in which all values have the same frequency
+Tail - the part of a distribution at the high and low extremes
+Central tendency - a characteristic of a sample or population, an average 
+Outlier - a value far from the central tendency
+Spread - a measure of how spread out the values in a distribution are
+Summary statistic - a statistic that quantifies some aspect of a distribution, like average or spread
+Variance - a summary statistic often used to quantify spread
+Standard deviation - the square root of variance, also used as a measure of spread
+Effect size - a summary statistic intended to quantify the size of an effect like a difference between groups
+Clinically significant - a result, like a difference between two groups, that is relevant in practice
+
+# Chapter 3
+
+Probability Mass Function ( PMF ) - a representation of a distribution as a function that maps from values to probabilities
+Probability - a frequency expressed as a fraction of the sample
+Normalization - a process of dividing a frequency by a sample size to get a probability

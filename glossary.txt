@@ -1,0 +1,16 @@
+# Chapter 1
+
+Anectodal evidence - evidence, often personal, that is collected casually rather than bu well-designed study
+Population - a group we wre interested in studying. 'Population' often refers to a group of people. but the term is used for other subjects, too
+Cross-sectional study - a study that collects data about a population at a particular point in time
+Cycle - in a repeated cross-sectional study, each repetition of the study is called a cycle
+Longitudinal study - a study that follows a population over time, collecting data from the same group repeatedly
+Record - in a dataset, a collection of information about a single person or other subjects
+Respondent - a person who responds to a survey
+Sample - a subset of a population used to collect data
+Representative - a sample is representative if every member of the population has the same chance of being in the sample
+Oversampling - a technique of increasing the representation of a subpopulation in order to avoid errors due to small sample sizes
+Raw data - values collected and recorded with little or no checking, calculation or interpretation
+Recode - a value that is generated bu calculation and other logic applied to raw data
+Data cleaning - process that include validating data, identifying errors, translating between data types, etc.
+

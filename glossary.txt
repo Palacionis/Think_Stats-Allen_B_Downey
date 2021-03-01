@@ -58,3 +58,16 @@ Complementary CDF - a function that maps from a value x, to the fraction of valu
 Standard normal distribution - the normal distribution with mean 0 and standard deviation 1
 Normal probability plot - a plot of the values in a sample versus random values from a standard normal distribution
 
+# Chapter 6
+
+Probability density function ( PDF ) - the derivative of a continuous CDF, a function that maps a value to its probability density
+Probability density - a quantity that can be integrated over a range of values to yield a probability. If the values are in units of cm, for example, probability density is in units of probability per cm
+Kernel density estimation ( KDE ) - an algorithm that estimates a PDF based on a sample
+Discretize - to approximate a continuos function or distribution with a discrete function, the opposite of smoothing
+Raw moment - a statistic based on the sum of data raised to a power
+Central moment - a statistic based on deviation from the mean, raised to a power
+Standardized moment - a ratio of moments that has no units
+Skewness - a measure of how asymmetric a distribution is
+Sample skewness - a moment-based statistic intended to quantify the skewness of a distribution
+Pearson's median skewness coefficient - a statistic intended to quantify the skewness of a distribution based on the median, mean and standard deviation
+Robust - a statistic is robus if it is relatively immune to the effect out outliers

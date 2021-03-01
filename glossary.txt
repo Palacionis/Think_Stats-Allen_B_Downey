@@ -86,3 +86,17 @@ Randomized controlled trial - an experimental design in which subjects are divid
 Treatment group - a group in a controlled trial that receives some kind of intervention
 Control group - a group in a controlled trial that receives no treatment or a treatment whose effect is known
 Natural experiment - an experimental design that takes advantage of a natural division of subjects into groups in ways that are at least approximately random
+
+# Chapter 8
+
+Estimation - the process of inferring the parameters of a distribution from a sample
+Estimator - a statistic used to estimate a parameter
+Mean squared error ( MSE ) - a measure of estimation error
+Root mean squared error ( RMSE ) - the square root if MSE, a more meaningful representation of typical error magnitude
+Maximum likelihood estimator ( MLE ) - an estimator that computes the point estimate most likely to be correct
+Bias ( of an estimator) - the tendency of an estimator to be above or below the actual value of the parameter, when averaged over repeated experiments
+Sampling error - error in an estimate due to the limited size of the sample and variation due to chance
+Sampling bias - error in an estimate due to a sampling process that is not representative of the population
+Measurement error - the distribution of a statistic if an experiment is repeated many times
+Standard error - the RMSE of an estimate, which quantifies variability due to sampling error ( but not other sources of error )
+Confidence interval - an interval that represents the expected range of an estimator if an experiment is repeated many times

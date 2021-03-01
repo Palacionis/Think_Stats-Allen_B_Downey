@@ -71,3 +71,18 @@ Skewness - a measure of how asymmetric a distribution is
 Sample skewness - a moment-based statistic intended to quantify the skewness of a distribution
 Pearson's median skewness coefficient - a statistic intended to quantify the skewness of a distribution based on the median, mean and standard deviation
 Robust - a statistic is robus if it is relatively immune to the effect out outliers
+
+# Chapter 7
+
+Scatter plot - a visualization of the relationship between 2 variables, showing one point for each row of data
+Jitter - random noise added to data for purposes of visualization
+Saturation - loss of information when multiple points are plotted on top of each other
+Correlation - a statistic that measures the strength of the relationship between two variables
+Standardize - to transform a set of values so that their mean is 0 and their variance is 1
+Standard score - a value that has been standardized so that it is expressed in standard deviations from the mean
+Covariance - a measure of the tendency of two variables to vary together
+Rank - the index where an element appears in a sorted list
+Randomized controlled trial - an experimental design in which subjects are divided into groups at random and different groups are given different treatments
+Treatment group - a group in a controlled trial that receives some kind of intervention
+Control group - a group in a controlled trial that receives no treatment or a treatment whose effect is known
+Natural experiment - an experimental design that takes advantage of a natural division of subjects into groups in ways that are at least approximately random

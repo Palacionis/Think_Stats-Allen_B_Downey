@@ -37,3 +37,13 @@ Clinically significant - a result, like a difference between two groups, that is
 Probability Mass Function ( PMF ) - a representation of a distribution as a function that maps from values to probabilities
 Probability - a frequency expressed as a fraction of the sample
 Normalization - a process of dividing a frequency by a sample size to get a probability
+
+# Chapter 4
+Percentile rank - the percentage of values in a distribution that are less than or equal to a given value
+Percentile - the value associated with a given percentile rank
+Cumulative distribution function ( CDF ) - a function that maps from values to their cumulative probabilities. CDF(x) is the fraction of the sample less than or equal to x
+Inverse CDF - a function that maps from a cumulative probability, p, to the corresponding value
+Median - the 50th percentile, often used a a measure of central tendency
+Interquartile range - the difference between the 75th and the 25th percentiles, used as a measure of spread
+Quantile - a sequence of values that correspond to equally spaced percentile ranks, for example, the quartiles of a distribution are the 25th, 50th and the 75th percentiles
+Replacement - a property of a sampling process. 'With replacement' means that the same value can be chosen more than once. 'Without replacement' means that once a value is chosen, it is removed from the population

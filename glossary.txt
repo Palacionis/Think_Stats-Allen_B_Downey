@@ -47,3 +47,14 @@ Median - the 50th percentile, often used a a measure of central tendency
 Interquartile range - the difference between the 75th and the 25th percentiles, used as a measure of spread
 Quantile - a sequence of values that correspond to equally spaced percentile ranks, for example, the quartiles of a distribution are the 25th, 50th and the 75th percentiles
 Replacement - a property of a sampling process. 'With replacement' means that the same value can be chosen more than once. 'Without replacement' means that once a value is chosen, it is removed from the population
+
+# Chapter 5
+
+Empirical distribution - the distribution of values in a sample
+Analytic distribution - a distribution whose CDF is an analytic function
+Model - a useful simplification. Analytic distributions are often good models of more complex empirical distributions
+Interarrival time - the elapsed time between two events
+Complementary CDF - a function that maps from a value x, to the fraction of values that exceed x, which is 1 - CDF(x)
+Standard normal distribution - the normal distribution with mean 0 and standard deviation 1
+Normal probability plot - a plot of the values in a sample versus random values from a standard normal distribution
+
